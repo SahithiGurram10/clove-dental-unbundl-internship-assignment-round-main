@@ -4,7 +4,7 @@ This is a fully responsive landing page built from a Figma design using **HTML**
 
 ## 🔗 Live Demo
 
-👉 [View Live Site](https://techkumarnitish.github.io/clove-dental-unbundl-internship-assignment-round/)
+👉 [View Live Site](https://github.com/SahithiGurram10/clove-dental-unbundl-internship-assignment-round-main)
 
 ## 🎯 Objective
 
